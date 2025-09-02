@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LCzhuigz
+- 👋 Hi, I’m @lczhuigz
 - 👀 I’m interested in C/Python/STM32
 - 🌱 I’m currently learning C/Python/STM32
 - 📫 How to reach me lczhuigz@163.com
