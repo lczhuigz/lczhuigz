@@ -36,6 +36,8 @@
 
 <p align="center">
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
+  <img alt="FPGA" src="https://img.shields.io/badge/FPGA-00599C?style=flat&logo=FPGA&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00599C?style=flat&logo=mysql&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
   <img alt="STM32" src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
@@ -45,6 +47,6 @@
 ## GitHub Stats
 
 <p align="center">
-  <img width="48%" alt="lczhuigz's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lczhuigz&show_icons=true&theme=transparent&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
-  <img width="48%" alt="lczhuigz's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lczhuigz&layout=compact&langs_count=8&theme=transparent&hide_title=true&hide_border=true">
+  <img width="52%" alt="lczhuigz's GitHub stats" src="https://github-stats-extended.vercel.app/api?username=lczhuigz&rank_icon=github&show_icons=true&include_all_commits=true&https://github-stats-extended.vercel.app/api?username=lczhuigz&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark_github">
+  <img width="47%" alt="lczhuigz's most used languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=lczhuigz&hide_progress=true&langs_count=5&theme=dark_github">
 </p>
